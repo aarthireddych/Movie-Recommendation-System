@@ -1,7 +1,6 @@
 # Movie-Recommendation-System
 This is a content based movie recommendation system
-# Web app link:
-click the link : [movie recommender system](https://mrs-aarthireddy-fd127b99cd9a.herokuapp.com/)
+
 # Screenshots
 <img width="1430" alt="1" src="https://github.com/user-attachments/assets/bf051322-323e-4156-a8ca-fe63795f8239">
 <img width="1439" alt="2" src="https://github.com/user-attachments/assets/46f7beff-188c-4f70-93d5-78e844b7439f">
